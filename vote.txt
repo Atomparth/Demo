@@ -1,0 +1,9 @@
+2017,Female,2087
+2017,Male,4567
+2017,Other,76
+2018,Female,2345
+2018,Male,5678
+2018,Other,123
+2019,Female,3890
+2019,Male,2124
+2019,Others,45
